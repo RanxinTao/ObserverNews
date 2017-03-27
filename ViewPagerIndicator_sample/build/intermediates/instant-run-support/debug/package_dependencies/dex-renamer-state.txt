@@ -1,0 +1,19 @@
+#Mon Mar 27 07:43:10 EDT 2017
+renamed.5=classes6.dex
+renamed.4=classes4.dex
+renamed.3=classes.dex
+renamed.2=classes5.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.5=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_1d394687d5946882f5239b0d8d5533ef13010bd0
+base.4=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c14102f7050f4c833c074f816d39319b1d30d37c
+base.3=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4deb960e9b80e12b92f048aa316b1522df4dbf26
+base.2=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_8f99ff7f972df84d8af83a43d599e2e42c8ecaa8
+base.1=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5344e07bc0f3192818c5417fae44933f69a8b6cf
+base.0=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_beedb5b8da3d18d4fc2cd04b0aa84b5e113e9297
+file.5=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_1d394687d5946882f5239b0d8d5533ef13010bd0\\classes.dex
+file.4=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c14102f7050f4c833c074f816d39319b1d30d37c\\classes.dex
+file.3=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4deb960e9b80e12b92f048aa316b1522df4dbf26\\classes.dex
+file.2=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_8f99ff7f972df84d8af83a43d599e2e42c8ecaa8\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5344e07bc0f3192818c5417fae44933f69a8b6cf\\classes.dex
+file.0=D\:\\AndroidStudioProjects\\ObserverNews\\ViewPagerIndicator_sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_beedb5b8da3d18d4fc2cd04b0aa84b5e113e9297\\classes.dex
